@@ -1,0 +1,5 @@
+READ
+READ
+ADD
+PRINT "Hello, world"
+HALT
